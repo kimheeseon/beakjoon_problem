@@ -1,5 +1,6 @@
 package beakjoon_problem;
 
+//피드백 : 윤휘 - 시간 계산 할 때 여러 개를 고쳐야 함(ex) 45분이 아니라 50분인 경우 숫자 4개 바꿔야 함
 import java.util.Scanner;
 
 public class beakjoon_2884 {
