@@ -13,7 +13,7 @@ public class beakjoon_1110 {
 		int newNumber = 0;
 		int var_num = input_num;
 		
-		//if(input_num < 0) { input_num = 0 + input_num;} -> ex) 0+1
+		//if(input_num < 0) { input_num = 0 + input_num;} -> X
 		
 		while(true) {
 			tensPlace = var_num / 10;
